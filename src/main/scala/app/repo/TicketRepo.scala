@@ -1,5 +1,8 @@
 package repo
 
+import model.TicketStatus.{Open, Fixed}
+import model.{TicketStatus, Bug, Issue, Ticket}
+
 /**
  * Created by nobesawa on 2014/10/14.
  */
